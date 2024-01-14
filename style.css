@@ -1,0 +1,79 @@
+.Dasmoto {
+          font-family: Helvetica;
+          font-family: 100px;
+          font-weight: bold;
+          color: khaki;
+          text-align: center;
+
+      }
+
+      .Dasmoto {
+          background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+          text-align: center;
+          font-size: 100px;
+          color: khaki;
+        }
+
+#brushes {
+          font-family: Helvetica;
+          font-weight: bold;
+          color: white;
+          text-align: center;
+          font-size: 32px;
+          padding: 20px 0;
+          background-color: mediumspringgreen;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+          text-align: left;
+          display: block;
+          margin: 20px auto;
+          height: auto;
+          line-height: 0.01;
+          font-size: 32px;
+          width: 100%;
+          
+        }
+.colored-text {
+  font-family:Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.hacksaw {
+  font-weight: bold;
+          color: white;
+          text-align: center;
+          font-size: 32px;
+          padding: 20px 0;
+          background-color: lightcoral;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+          text-align: left;
+          display: block;
+          margin: 20px auto;
+          height: auto;
+          line-height: 0.01;
+          font-size: 32px;
+          width: 100%;
+}
+
+.paint {
+  font-weight: bold;
+          color: white;
+          text-align: center;
+          font-size: 32px;
+          padding: 20px 0;
+          background-color: skyblue;
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+          text-align: left;
+          display: block;
+          margin: 20px auto;
+          height: auto;
+          line-height: 0.01;
+          font-size: 32px;
+          width: 100%;
+}
